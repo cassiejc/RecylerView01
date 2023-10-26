@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RecylerView01</string>
+    <string name="title01">Book 1</string>
+    <string name="title02">Book 2</string>
+    <string name="title03">Book 3</string>
+    <string name="desc01">Description Book 1</string>
+    <string name="desc02">Description Book 2</string>
+    <string name="desc03">Description Book 3</string>
+
+</resources>
